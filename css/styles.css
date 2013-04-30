@@ -1,0 +1,104 @@
+
+/*NAV BAR*/
+
+.nav-pills>.active>a	{
+	background-color:#ADD9B2;
+}
+.nav-pills>.active>a:hover	{
+	background-color:#737A79;
+	
+}
+
+.nav>li>a:hover, .nav>li>a:focus {
+	background-color:#E0E0E0;
+}
+
+
+.row	{
+	margin-top:30px;
+}
+
+
+.navtype	{
+	text-decoration:none;
+	color:#768578;
+	font-family: 'Oxygen', sans-serif;
+	font-size:16px;
+}
+
+/*END BAR*/
+
+h1	{
+	font-family: 'Oxygen', sans-serif;
+	font-size:50px;
+	color:#6F6B79;
+	margin-top:20px;
+}
+
+
+
+p	{
+	
+	
+	font-size:16px;
+	line-height:27px;
+	margin-top:15px;
+	margin-bottom:15px;
+	margin-right:0px;
+	
+}
+
+h2	{
+	font-family: 'Oxygen', sans-serif;
+	font-size:25px;
+	color:#768578;
+}
+
+h3	{
+	font-family: 'Oxygen', sans-serif;
+	font-size:20px;
+	line-height:12px;
+}
+
+/*Carosuel*/
+
+.carousel-control.right {
+	right:56px;
+	top:50%;
+
+}
+.carousel-control.left {
+	top:50%;
+	
+
+}
+
+.carousel	{
+	align:center;
+}
+
+/*END Carosuel*/
+
+hr	{
+	margin: -3px;
+	height:1px;
+	width:100%;
+	background-color:#768578;
+	border:none;
+}
+
+
+/*Thumbnail*/
+
+.thumb	{
+	line-height:15px;
+	font-size:10px;
+}
+
+.thumbnail	{
+	margin-top:42px;
+	margin-bottom:0px;
+	margin-left:63px;
+	background-color:#EFEFEF;
+}
+	
